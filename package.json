@@ -6,7 +6,7 @@
     "browserify": "^13.1.0",
     "electabul": "~0.0.4",
     "electron-docs-linter": "^1.16.1",
-    "request": "*",
+    "request": "0.12.1",
     "standard": "^8.4.0",
     "standard-markdown": "^2.1.1"
   },
